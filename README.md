@@ -17,7 +17,7 @@
 
 > *“In the beginning was the Word, and the Word was with God, and the Word was God... And the light shineth in darkness; and the darkness comprehended it not.”* — **John 1:1, 5 (KJV)**
 
-[**▶ Launch Single-File Game (`JourneyThroughJohn_TeamLegacy_Enhanced.html`)**](./JourneyThroughJohn_TeamLegacy_Enhanced.html) &nbsp;•&nbsp;
+[**▶ Launch Single-File Game (`JourneyThroughJohn_TeamLegacy_Enhanced.html`)**]([./JourneyThroughJohn_TeamLegacy_Enhanced.html](https://2ndchances520.github.io/Journey-Through-John-2.0/)) &nbsp;•&nbsp;
 [**🛰 Open OmniTool V3 Web Deck**](https://2ndchances520.github.io/OmniToolV3/) &nbsp;•&nbsp;
 [**⏳ Explore "What is Time"**](https://2ndchances520.github.io/WhatIsTime/) &nbsp;•&nbsp;
 [**⚙ Wehrmacht Enigma Simulator**](https://people.physik.hu-berlin.de/~palloks/js/enigma/enigma-u_v20_en.html)
